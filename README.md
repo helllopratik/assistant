@@ -18,10 +18,15 @@ Please make sure to install all the dependencies using the following command:
 ```py
 pip install openai asyncio re whisper boto3 pydub SpeechRecognition EdgeGPT
 ```
+------------------------
 pip install triton==2.1.0
+------------------------
 pip install git+https://github.com/openai/whisper.git
+-----------------------
 sudo apt  install ffmpeg
+-----------------------
 pip install EdgeGPT
+-------------------
 
 -------------------
 export AWS_ACCESS_KEY_ID=
