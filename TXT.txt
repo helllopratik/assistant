@@ -1,0 +1,22 @@
+Make config.json file 
+
+having ---------
+
+
+{
+    "openai_api_key": "GPT KEY"
+}
+
+---------------
+make cookies.json.template
+
+having ----
+
+[
+    {
+        "cookies": "exported using cookie editor"
+        export AWS_ACCESS_KEY_ID=
+        export AWS_SECRET_ACCESS_KEY=
+        export AWS_REGION=
+    }
+]

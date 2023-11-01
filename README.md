@@ -23,6 +23,12 @@ pip install git+https://github.com/openai/whisper.git
 sudo apt  install ffmpeg
 pip install EdgeGPT
 
+-------------------
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
+export AWS_REGION=
+-------------------
+
 
 ## Configuration
 Before using the chatbot, make sure to set up your OpenAI API key and Amazon Polly credentials.
